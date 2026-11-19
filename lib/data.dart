@@ -22,10 +22,10 @@ class Identity {
       'sebagai tugas individu mata kuliah Teknologi Berkembang kelas B.';
 
   // CONTOH: ganti dengan kontak aslimu
-  static const email = 'email@contoh.com';
-  static const github = 'github.com/username';
+  static const email = 'fairuzahnaf1@gmail.com';
+  static const github = 'github.com/fairuz-ahnaf';
   static const linkedin = 'linkedin.com/in/username';
-  static const instagram = '@username';
+  static const instagram = '@fairuzzanf';
 }
 
 class Assets {
